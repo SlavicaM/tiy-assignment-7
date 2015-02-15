@@ -64,7 +64,7 @@ var items = items.forEach(function(item) {
 
 // Show me how to find which items are made of wood. Please console.log the ones you find.
 //get items which are made of wood; "tags" === "wood%"
-//Not sure how to this for now
+//Not sure how to do this for now
 
 /*
 var woodItems = items.forEach(function(item,index) {
